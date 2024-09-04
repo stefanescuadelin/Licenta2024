@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Inter', sans-serif !important;
+    background: #e3efee;
+    /* Some browser may have some default setting for margin (e.g 8px) */
+}
+
+.MuiTypography-body1 {
+    font-family: 'Inter', sans-serif !important;
+}
